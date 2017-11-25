@@ -12,8 +12,8 @@ sap.ui.define([
 		"use strict";
 
 		return BaseController.extend("jekunauto.ui.erp.controller.Controls", {
-
-			/**
+            
+			/**tgwg生命mfa周期
 			 * Called when the controller is instantiated.
 			 * @public
 			 */
